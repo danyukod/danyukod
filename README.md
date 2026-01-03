@@ -48,11 +48,6 @@
   <img height="70em" width="70em" align="right" src="https://i.imgur.com/7Zv7XHq.png"/>
 </div>
 
-<div>
-<img height="172em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danyukod&layout=compact&langs_count=7&theme=calm"/>
-<img height="172em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danyukod&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-</div>
-
 ## :office: Companie(s) Where I Work(ed)
 
 <div>
