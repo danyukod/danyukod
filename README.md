@@ -14,8 +14,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danyukod&show_icons=true&theme=radical" alt="Danilo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyukod&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danyukod&show_icons=true&theme=radical&count_private=true" alt="Danilo's GitHub stats" />
+  <img src="https://ionicabizau.github.io/github-profile-languages/api.html?danyukod" alt="Top Langs" />
 </div>
 
 <br/>
