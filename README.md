@@ -48,8 +48,6 @@
   <img height="70em" width="70em" align="right" src="https://i.imgur.com/7Zv7XHq.png"/>
 </div>
 
-<div></div>
-
 ## :office: Companie(s) Where I Work(ed)
 
 <div>
