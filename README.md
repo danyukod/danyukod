@@ -13,18 +13,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danyukod&show_icons=true&theme=radical&count_private=true" alt="Danilo's GitHub stats" />
-  <img src="https://ionicabizau.github.io/github-profile-languages/api.html?danyukod" alt="Top Langs" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="150em" src="https://i.imgur.com/7Zv7XHq.png"/>
-</div>
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack <img align="right" height="50px" src="https://i.imgur.com/7Zv7XHq.png"/>
 
 ### 🚀 Languages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
