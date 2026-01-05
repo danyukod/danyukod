@@ -1,4 +1,4 @@
-# :recycle:	Loading FullCycle Developer... :alien:
+# :recycle:	Loading FullCycle Developer... :alien: <img align="right" height="50px" src="https://i.imgur.com/7Zv7XHq.png"/>
 ### - Hello, I'm Danilo Y. Kodavara ✌️, eternal tech student, and committed to knowledge.
 
 ---
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack <img align="right" height="50px" src="https://i.imgur.com/7Zv7XHq.png"/>
+## 🛠️ Tech Stack
 
 ### 🚀 Languages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
